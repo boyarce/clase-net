@@ -1,0 +1,30 @@
+C:\Users\CETECOM\Desktop\MySite\Persistencia\bin\Debug\Persistencia.exe.config
+C:\Users\CETECOM\Desktop\MySite\Persistencia\bin\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\MySite\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\MySite\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Desktop\MySite\Persistencia\obj\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\MySite\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\05 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe.config
+C:\Users\CETECOM\Desktop\05 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\05 - MySite\MySite\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\05 - MySite\MySite\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Desktop\05 - MySite\MySite\Persistencia\obj\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\05 - MySite\MySite\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\07 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe.config
+C:\Users\CETECOM\Desktop\07 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\07 - MySite\MySite\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\07 - MySite\MySite\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Desktop\07 - MySite\MySite\Persistencia\obj\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\07 - MySite\MySite\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\01 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe.config
+C:\Users\CETECOM\Desktop\01 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\01 - MySite\MySite\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\01 - MySite\MySite\Persistencia\obj\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\01 - MySite\MySite\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\01 - MySite\MySite\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Desktop\03 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe.config
+C:\Users\CETECOM\Desktop\03 - MySite\MySite\Persistencia\bin\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\03 - MySite\MySite\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\CETECOM\Desktop\03 - MySite\MySite\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Desktop\03 - MySite\MySite\Persistencia\obj\Debug\Persistencia.exe
+C:\Users\CETECOM\Desktop\03 - MySite\MySite\Persistencia\obj\Debug\Persistencia.pdb
