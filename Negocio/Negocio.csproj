@@ -46,9 +46,11 @@
     <Compile Include="business\exception\BusinessException.cs" />
     <Compile Include="business\rules\ComunaBusiness.cs" />
     <Compile Include="business\rules\generic\EmptyRule.cs" />
+    <Compile Include="business\rules\generic\MaxLengthRule.cs" />
     <Compile Include="business\rules\impl\ComunaBusinessImpl.cs" />
     <Compile Include="business\rules\impl\LoginBusinessImpl.cs" />
     <Compile Include="business\rules\impl\RegionBusinessImpl.cs" />
+    <Compile Include="business\rules\impl\UsuarioBusinessImpl.cs" />
     <Compile Include="business\rules\LoginBusiness.cs" />
     <Compile Include="business\rules\RegionBusiness.cs" />
     <Compile Include="business\rules\UsuarioBusiness.cs" />

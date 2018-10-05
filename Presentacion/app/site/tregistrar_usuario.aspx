@@ -24,4 +24,12 @@
     <div class="col-25">
         <asp:Button ID="btn_create" runat="server" Text="CREAR"  OnClick="btn_create_Click"/>
     </div>
+      <div id="row_message" class="row">
+                <div class="col-100">
+                    <asp:Label ID="lbl_message_error"
+                        runat="server"
+                        Text=" " />
+                </div>
+
+            </div>
 </asp:Content>
