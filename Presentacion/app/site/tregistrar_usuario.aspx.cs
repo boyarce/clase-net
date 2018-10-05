@@ -31,7 +31,7 @@ namespace Presentacion.app.site
             }
             catch (BusinessException ex)
             {
-
+                lbl_message_error.Text = ex.Message;
                 throw;
             }
         }

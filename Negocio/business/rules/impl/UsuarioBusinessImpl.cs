@@ -16,7 +16,8 @@ namespace Negocio.business.rules.impl
             empty.isEmpty("Nombre Usuario", user.User);
             empty.isEmpty("Password", user.Password);
             MaxLengthRule maxLength = new MaxLengthRule();
-           // maxLength.isValid("Nombre Usuario", user.User, );
+           maxLength.isValid("Nombre Usuario", user.User, 40);
+            maxLength.isValid("Password", user.Password, 80);
 
 
         }
